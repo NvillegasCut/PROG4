@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+  <html>
+     <head>
+          <title>PRACTICA 1</title>
+    </head>
+          <body>
+
+                <h1>TITULO</h1>
+                <p>Este es un parrafo para la practica 1 </p>
+                <li><a href="http://facebook.com"> Facebook</a></li>
+                <li><a href="http://twitter.com"> Twitter/a></li>
+                <li><a href="http://Instagram.com"> Instagram</a></li>
+                
+                <img src="foto_prac1_1.jpg">
+
+          </body>
+   </html> 
